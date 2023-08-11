@@ -1,0 +1,10 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 40,
+        "width": 40
+    },
+    "display": "Snowflake",
+    "icon": "ion-ios-snowy"
+}

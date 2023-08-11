@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAD": {
+            "name": "snowflake",
+            "url": "//meta-l.cdn.bubble.io/f1691770706000x200852787617585180/blue-snow-icon-8.png"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 4,
+        "use_jquery": true
+    }
+}
